@@ -1,0 +1,8 @@
+Dataset/
+tmp/
+TFRecords/
+.env
+.ipynb_checkpoints
+utils/__pycache__
+model.py
+logs/
