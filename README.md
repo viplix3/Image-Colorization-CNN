@@ -17,6 +17,6 @@ Coloring black and white images using a very simple structure of CNN in tensorfl
 Currently, the model is trained for only human portraits.
 
 <img 
-	src=/utils/
+	src=/utils/graph.png
 	align="left"
 />
