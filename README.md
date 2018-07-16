@@ -8,7 +8,7 @@ Coloring black and white images using a very simple structure of CNN in tensorfl
 
 - [x] Overfit the model on a single image to check implementation
 - [x] Write scripts to make and use TFRecords for efficient GPU training
-- [ ] Train the model on a dataset for coloring human portraits
+- [ ] Train the model on a dataset for coloring human portraits (Currently working on this)
 - [ ] Use a trained model (Inceptionv3 or ResNet) as a feature extractor for better results
 - [ ] Train the model to color any random image
 

@@ -42,7 +42,7 @@ def _process_image(filename):
 
     LAB_image = rgb2lab(image_data)
     X = LAB_image[:, :, 0].reshape(FLAGS.img_size, FLAGS.img_size, 1)
-    Y = LAB_image[:, :, 1:]
+    Y = LAB_image[:, :, 1:].reshape(FLAGS.img_size, FLAGS.img_size, 2)
 
     X = X / 100.0
     Y = Y / 128.0
