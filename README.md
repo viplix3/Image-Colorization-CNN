@@ -8,13 +8,11 @@ I used a very basic CNN architecture in an attempt to make a image coloring bot.
 
 In the alpha version, for cheking the core logic of out concepts and for checking the implementation details, I overfitted the model on a single image to check the results, and the results were as following.
 
-<img
-	src=images/alpha/input.png
-	align="left"
-/>
+### Alpha Version
+
 <img
 	src=/images/alpha/results.png
-	align="center"
+	align="left"
 />
 <img
 	src=/images/alpha/original.png
