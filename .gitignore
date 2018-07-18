@@ -1,5 +1,8 @@
 Dataset/
+<<<<<<< HEAD
 downloads/
+=======
+>>>>>>> 93b3dc2727981a0242eff9fdb8cf027d8ebe3888
 tmp/
 TFRecords/
 .env
