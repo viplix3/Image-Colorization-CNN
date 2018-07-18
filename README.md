@@ -12,7 +12,7 @@ In the alpha version, for cheking the core logic of out concepts and for checkin
 
 <img
 	src=/images/alpha/results.png
-	align="left"
+	align="center"
 />
 <img
 	src=/images/alpha/original.png
