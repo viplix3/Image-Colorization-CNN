@@ -21,12 +21,16 @@ In the alpha version, for cheking the core logic of out concepts and for checkin
 ### Alpha Version
 
 <img
+	src=/images/alpha/input.png
+	align="center"
+/>
+<img
 	src=/images/alpha/results.png
 	align="center"
 />
 <img
 	src=/images/alpha/original.png
-	align="right"
+	align="center"
 />
 
 
@@ -34,12 +38,16 @@ In the alpha version, for cheking the core logic of out concepts and for checkin
 
 #### After 20 epochs
 <img
+	src=/images/beta/input0.png
+	align="center"
+/>
+<img
 	src=/images/beta/results0.png
 	align="center"
 />
 <img
 	src=/images/beta/original0.png
-	align="Center"
+	align="center"
 />
 
 
