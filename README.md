@@ -112,9 +112,7 @@ I will run a few more epochs by adding more images with vivid colors in them and
 />
 
 
-### A simple structure of CNN, as described by the image below was trained from scratch.
-
-Currently, the model is trained only for human portraits.
+### The following structure of CNN is being used for ALPHA and BETA version.
 
 <img 
 	src=/images/graph.png
