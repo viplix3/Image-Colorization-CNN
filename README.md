@@ -20,6 +20,9 @@ In the alpha version, for cheking the core logic of out concepts and for checkin
 
 ### Alpha Version
 
+At this point of time, the model was overfitted on a single image for 10,000 epochs.
+Because of overfitting on a single image, the model gave results with colors close to the original image.
+
 <img
 	src=/images/alpha/input.png
 	align="center"
