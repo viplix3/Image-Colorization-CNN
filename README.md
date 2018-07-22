@@ -57,45 +57,45 @@ It is coloring most of the images as brown as that is the most prominent color i
 
 #### After 220 epochs
 <img
-	src=/images/beta/input200_0.png
+	src=/images/beta/input220.png
 	align="center"
 />
 <img
-	src=/images/beta/results200_0.png
+	src=/images/beta/results220.png
 	align="center"
 />
 <img
-	src=/images/beta/output200_0.png
-	align="center"
-/>
-
-
-
-<img
-	src=/images/beta/input200_1.png
-	align="center"
-/>
-<img
-	src=/images/beta/results200_1.png
-	align="center"
-/>
-<img
-	src=/images/beta/output200_1.png
+	src=/images/beta/output220.png
 	align="center"
 />
 
 
 
 <img
-	src=/images/beta/input200_2.png
+	src=/images/beta/input220_1.png
 	align="center"
 />
 <img
-	src=/images/beta/results200_2.png
+	src=/images/beta/results220_1.png
 	align="center"
 />
 <img
-	src=/images/beta/output200_2.png
+	src=/images/beta/output220_1.png
+	align="center"
+/>
+
+
+
+<img
+	src=/images/beta/input220_2.png
+	align="center"
+/>
+<img
+	src=/images/beta/results220_2.png
+	align="center"
+/>
+<img
+	src=/images/beta/output220_2.png
 	align="center"
 />
 
