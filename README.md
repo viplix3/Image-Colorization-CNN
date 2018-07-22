@@ -36,6 +36,7 @@ In the alpha version, for cheking the core logic of out concepts and for checkin
 
 ### Beta Version
 
+
 #### After 20 epochs
 <img
 	src=/images/beta/input0.png
@@ -50,6 +51,57 @@ In the alpha version, for cheking the core logic of out concepts and for checkin
 	align="center"
 />
 
+At this point of time, the model was trained for 20 epochs with dataset having approximately 900 images of human portraits only.
+It is coloring most of the images as brown as that is the most prominent color in human portraits because of human skin. Now I will add a few images with vivid colors in them and reduce the images of human portraits.
+
+
+#### After 220 epochs
+<img
+	src=/images/beta/input200_0.png
+	align="center"
+/>
+<img
+	src=/images/beta/results200_0.png
+	align="center"
+/>
+<img
+	src=/images/beta/output200_0.png
+	align="center"
+/>
+
+
+
+<img
+	src=/images/beta/input200_1.png
+	align="center"
+/>
+<img
+	src=/images/beta/results200_1.png
+	align="center"
+/>
+<img
+	src=/images/beta/output200_1.png
+	align="center"
+/>
+
+
+
+<img
+	src=/images/beta/input200_2.png
+	align="center"
+/>
+<img
+	src=/images/beta/results200_2.png
+	align="center"
+/>
+<img
+	src=/images/beta/output200_2.png
+	align="center"
+/>
+
+
+As previously, this model was trained only for portraits, it saw a majority of pictures with different textures of brown in the form of skin of people, so it is coloring most of the images brown.
+I will run a few more epochs by adding more images with vivid colors in them and that will be the beta version of it.
 
 ### A simple structure of CNN, as described by the image below was trained from scratch.
 
