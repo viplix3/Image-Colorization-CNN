@@ -6,7 +6,7 @@ Coloring black and white images using a very simple structure of CNN in tensorfl
 
 I used a very basic CNN architecture in an attempt to make a image coloring bot.
 
-In the alpha version, for cheking the core logic of out concepts and for checking the implementation details, I overfitted the model on a single image to check the results, and the results were as following.
+In the alpha version, for checking the core logic of out concepts and for checking the implementation details, I overfitted the model on a single image to check the results, and the results were as following.
 
 
 ### Todo
@@ -41,6 +41,11 @@ Because of overfitting on a single image, the model gave results with colors clo
 
 
 #### After 20 epochs
+
+At this point of time, the model was trained for 20 epochs with dataset having approximately 900 images of human portraits only.
+It is coloring most of the images as brown as that is the most prominent color in human portraits because of human skin. Now I will add a few images with vivid colors in them and reduce the images of human portraits.
+
+
 <img
 	src=/images/beta/input0.png
 	align="center"
@@ -54,11 +59,15 @@ Because of overfitting on a single image, the model gave results with colors clo
 	align="center"
 />
 
-At this point of time, the model was trained for 20 epochs with dataset having approximately 900 images of human portraits only.
-It is coloring most of the images as brown as that is the most prominent color in human portraits because of human skin. Now I will add a few images with vivid colors in them and reduce the images of human portraits.
 
 
 #### After 220 epochs
+
+
+As previously this model was trained only for portraits, it saw a majority of pictures with different textures of brown in the form of skin of people, so it is coloring most of the images brown.
+I will run a few more epochs by adding more images with vivid colors in them and that will be the beta version of image coloring model.
+
+
 <img
 	src=/images/beta/input220.png
 	align="center"
@@ -102,9 +111,6 @@ It is coloring most of the images as brown as that is the most prominent color i
 	align="center"
 />
 
-
-As previously, this model was trained only for portraits, it saw a majority of pictures with different textures of brown in the form of skin of people, so it is coloring most of the images brown.
-I will run a few more epochs by adding more images with vivid colors in them and that will be the beta version of it.
 
 ### A simple structure of CNN, as described by the image below was trained from scratch.
 
