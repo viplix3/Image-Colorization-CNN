@@ -65,7 +65,7 @@ It is coloring most of the images as brown as that is the most prominent color i
 	align="center"
 />
 <img
-	src=/images/beta/output220.png
+	src=/images/beta/original220.png
 	align="center"
 />
 
@@ -80,7 +80,7 @@ It is coloring most of the images as brown as that is the most prominent color i
 	align="center"
 />
 <img
-	src=/images/beta/output220_1.png
+	src=/images/beta/original220_1.png
 	align="center"
 />
 
@@ -95,7 +95,7 @@ It is coloring most of the images as brown as that is the most prominent color i
 	align="center"
 />
 <img
-	src=/images/beta/output220_2.png
+	src=/images/beta/original220_2.png
 	align="center"
 />
 
